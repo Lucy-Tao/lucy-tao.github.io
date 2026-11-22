@@ -25,7 +25,7 @@ My research interests lie in uncertainty quantification and reliable machine lea
 
 - **Yuan Tao**, Yi Ren, Jialin Yu, Yarin Gal, and Lin Li. “Distilling Answers, Discarding Uncertainty: Uncertainty Collapse in Sequence-Level Knowledge Distillation.” **Under review at ICLR 2027**. [OpenReview](https://openreview.net/forum?id=KQYh1Ku6GP)
 - **Yuan Tao**, Yi Ren, Jialin Yu, Yarin Gal, and Lin Li. “Sequence-Level Knowledge Distillation Collapses Uncertainty and Erodes Hallucination Detection.” **Accepted at the NeurIPS 2026 Workshop on Transitioning from Pre-Training to Post-Training**.
-- **Yuan Tao**, R. Q. Lan, Y. S. Lai, J. Y. Zhong, and R. Liu. “sMIE: Revealing Critical Transitions in Complex Biological Systems Using Single-Sample Mutual Information Entropy.” *Philosophical Transactions of the Royal Society A*, 2026. [Paper](https://doi.org/10.1098/rsta.2024.0484)
+- **Yuan Tao**, Ruoqi Lan, Yunshan Lai, Jiayuan Zhong, and Rui Liu. “sMIE: Revealing Critical Transitions in Complex Biological Systems Using Single-Sample Mutual Information Entropy.” *Philosophical Transactions of the Royal Society A*, 2026. [Paper](https://doi.org/10.1098/rsta.2024.0484)
 
 ## Education
 
